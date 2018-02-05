@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Learning.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Chapter7/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6/config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/Chapter6/config-client/cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6/config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/Chapter6/config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/compute-service/compute-service.iml" filepath="$PROJECT_DIR$/Chapter3/compute-service/compute-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5/eureka-feign/eureka-feign.iml" filepath="$PROJECT_DIR$/Chapter5/eureka-feign/eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5/eureka-ribbon/eureka-ribbon.iml" filepath="$PROJECT_DIR$/Chapter5/eureka-ribbon/eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/Chapter3/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7/service-A/service-A.iml" filepath="$PROJECT_DIR$/Chapter7/service-A/service-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7/service-B/service-B.iml" filepath="$PROJECT_DIR$/Chapter7/service-B/service-B.iml" />
+    </modules>
+  </component>
+</project>
